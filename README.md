@@ -1,2 +1,2 @@
-# surge
-Fast, reliable version promotion through deployment pipeline stages.
+# Surge Pipelines
+Deployment pipelines for promoting versions quickly with confidence.
